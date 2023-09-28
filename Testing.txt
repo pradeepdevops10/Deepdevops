@@ -1,1 +1,2 @@
 Hello this is the file for testing purpose.
+Trying to fix the conflicts

@@ -1,2 +1,3 @@
 Hello this is the file for testing purpose.
-Trying to fix the conflicts
+Hello this is the file
+Trying to fix the conflicts in remote
